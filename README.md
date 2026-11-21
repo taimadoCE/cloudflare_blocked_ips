@@ -23,7 +23,7 @@ Cloudflare expone estos datos mediante el dataset `firewallEventsAdaptive` de su
 | Archivo | Contenido |
 |---|---|
 | `blocked-ips.txt` | Lista deduplicada de direcciones IP, una por línea. |
-| `blocked-ips.json` | Registro detallado de los eventos de seguridad de las últimas 24 horas. |
+| `blocked-ips.json` | Registro detallado de los eventos de seguridad de los últimos 7 días. |
 | `.github/workflows/cloudflare-blocked-ips.yml` | Definición del workflow de GitHub Actions. |
 
 El archivo `.txt` está pensado para usos operativos sencillos, por ejemplo como base para listas de bloqueo en un cortafuegos. El `.json` conserva el contexto de cada evento y facilita su análisis posterior.
