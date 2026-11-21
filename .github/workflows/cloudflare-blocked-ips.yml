@@ -28,7 +28,7 @@ jobs:
           token = os.environ["CF_API_TOKEN"]
           zone = os.environ["CF_ZONE_ID"]
           end = datetime.now(timezone.utc)
-          start = end - timedelta(days=1)
+          start = end - timedelta(days=7)
 
           query = '''
           query BlockedIPs($zoneTag: string!, $since: Time!, $until: Time!) {
