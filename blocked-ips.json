@@ -1,0 +1,2351 @@
+[
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "BR",
+    "clientIP": "43.157.149.188",
+    "datetime": "2026-11-21T18:49:34Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "2a0f:ca80:b00b:5c69::5",
+    "datetime": "2026-11-21T18:49:20Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "2a0f:ca80:b00b:5c69::5",
+    "datetime": "2026-11-21T18:49:20Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "2a0f:ca80:b00b:5c69::5",
+    "datetime": "2026-11-21T18:49:20Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "206092",
+    "clientCountryName": "US",
+    "clientIP": "45.8.19.92",
+    "datetime": "2026-11-21T18:44:40Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "49.232.5.145",
+    "datetime": "2026-11-21T18:44:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.4 Safari/605.1.15"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:38Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:137.0) Gecko/20100101 Firefox/137.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "13335",
+    "clientCountryName": "FR",
+    "clientIP": "104.28.196.54",
+    "datetime": "2026-11-21T18:05:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ChatGPT-User/1.0; +https://openai.com/bot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "KR",
+    "clientIP": "101.33.66.34",
+    "datetime": "2026-11-21T17:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "49.232.88.176",
+    "datetime": "2026-11-21T17:42:41Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "206092",
+    "clientCountryName": "US",
+    "clientIP": "216.73.160.152",
+    "datetime": "2026-11-21T17:23:17Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "18.222.138.219",
+    "datetime": "2026-11-21T16:06:14Z",
+    "source": "firewallCustom",
+    "userAgent": "Go-http-client/1.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T15:57:59Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.6167.85 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T15:57:57Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.159 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T15:57:50Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.130 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T15:57:47Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/118.0.2"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9121",
+    "clientCountryName": "TR",
+    "clientIP": "212.156.70.154",
+    "datetime": "2026-11-21T13:55:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "162.14.81.106",
+    "datetime": "2026-11-21T11:53:06Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "93.123.109.166",
+    "datetime": "2026-11-21T10:54:42Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.120",
+    "datetime": "2026-11-21T10:45:12Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 6.0; HTC One M9 Build/MRA58K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9009",
+    "clientCountryName": "FR",
+    "clientIP": "82.102.18.182",
+    "datetime": "2026-11-21T09:47:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "206092",
+    "clientCountryName": "US",
+    "clientIP": "136.144.42.149",
+    "datetime": "2026-11-21T09:26:20Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:30Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:30Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:29Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:29Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:28Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:27Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:26Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:26Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:24Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:22Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-21T09:02:21Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.2151.97"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:31Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:17Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/118.0.2"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:13Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:07Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.6045.159 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:03Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:118.0.2) Gecko/20100101 Firefox/118.0.2"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "188.166.251.108",
+    "datetime": "2026-11-21T08:55:03Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.2277.83"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:52Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:52Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:52Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:52Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:51Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:51Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:50Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:50Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:50Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:49Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:48Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:47Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:47Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:46Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:46Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:46Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:46Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:45Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:44Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:43Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:43Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:43Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:42Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:41Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:39Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "48090",
+    "clientCountryName": "NL",
+    "clientIP": "45.148.10.62",
+    "datetime": "2026-11-21T07:04:39Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:02Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BE",
+    "clientIP": "34.78.21.41",
+    "datetime": "2026-11-21T07:03:01Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "HK",
+    "clientIP": "43.161.233.190",
+    "datetime": "2026-11-21T06:49:58Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T06:38:26Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.88 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T06:38:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/120.0.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T06:38:13Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Gecko/20100101 Firefox/122.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "197170",
+    "clientCountryName": "DE",
+    "clientIP": "94.26.106.240",
+    "datetime": "2026-11-21T06:38:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 13_6_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5993.88 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14956",
+    "clientCountryName": "US",
+    "clientIP": "2602:fa59:2:175b::1",
+    "datetime": "2026-11-21T06:34:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "396356",
+    "clientCountryName": "US",
+    "clientIP": "173.239.240.121",
+    "datetime": "2026-11-21T06:23:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:11Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:10Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:08Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:07Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:07Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:06Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:06Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:05Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:05Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:05Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "US",
+    "clientIP": "20.124.79.180",
+    "datetime": "2026-11-21T06:02:05Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "175.27.163.171",
+    "datetime": "2026-11-21T05:59:23Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "13335",
+    "clientCountryName": "FI",
+    "clientIP": "2a06:98c0:3600::103",
+    "datetime": "2026-11-21T05:47:21Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "13335",
+    "clientCountryName": "FI",
+    "clientIP": "2a06:98c0:3600::103",
+    "datetime": "2026-11-21T05:47:21Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0"
+  },
+  {
+    "action": "block",
+    "clientAsn": "43357",
+    "clientCountryName": "DE",
+    "clientIP": "176.119.150.95",
+    "datetime": "2026-11-21T05:20:45Z",
+    "source": "bic",
+    "userAgent": "\"Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.\""
+  },
+  {
+    "action": "block",
+    "clientAsn": "30860",
+    "clientCountryName": "UA",
+    "clientIP": "2a09:2dc2:0:50cf::",
+    "datetime": "2026-11-21T04:55:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "30860",
+    "clientCountryName": "UA",
+    "clientIP": "2a09:2dc2:0:50cf::",
+    "datetime": "2026-11-21T04:55:25Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "714",
+    "clientCountryName": "US",
+    "clientIP": "17.166.154.15",
+    "datetime": "2026-11-21T02:31:42Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1; +http://www.apple.com/go/applebot)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "218785",
+    "clientCountryName": "PL",
+    "clientIP": "45.138.12.6",
+    "datetime": "2026-11-21T00:32:19Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "101.33.237.108",
+    "datetime": "2026-11-21T00:22:36Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "BR",
+    "clientIP": "43.157.191.20",
+    "datetime": "2026-11-20T23:20:51Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "31898",
+    "clientCountryName": "SG",
+    "clientIP": "129.221.133.200",
+    "datetime": "2026-11-20T23:11:13Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (compatible; WP-Safe-Scanner/1.0)"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "14618",
+    "clientCountryName": "US",
+    "clientIP": "3.87.76.163",
+    "datetime": "2026-11-20T22:00:28Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "HK",
+    "clientIP": "101.32.49.171",
+    "datetime": "2026-11-20T21:46:03Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:33Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:32Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "210558",
+    "clientCountryName": "NL",
+    "clientIP": "45.92.1.14",
+    "datetime": "2026-11-20T20:01:32Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:15Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:14Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:14Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:14Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:14Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:13Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:13Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:12Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:11Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "212238",
+    "clientCountryName": "BE",
+    "clientIP": "79.127.164.13",
+    "datetime": "2026-11-20T19:52:05Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45102",
+    "clientCountryName": "HK",
+    "clientIP": "8.217.145.188",
+    "datetime": "2026-11-20T19:45:48Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "206.189.145.184",
+    "datetime": "2026-11-20T19:40:40Z",
+    "source": "firewallCustom",
+    "userAgent": "Go-http-client/1.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "14061",
+    "clientCountryName": "SG",
+    "clientIP": "206.189.145.184",
+    "datetime": "2026-11-20T19:40:40Z",
+    "source": "firewallCustom",
+    "userAgent": "Go-http-client/1.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "9121",
+    "clientCountryName": "TR",
+    "clientIP": "212.156.70.154",
+    "datetime": "2026-11-20T19:11:46Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36"
+  }
+]
