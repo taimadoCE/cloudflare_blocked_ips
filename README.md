@@ -74,7 +74,7 @@ También puede modificarse la programación en la sección `schedule` del workfl
 
 ```yaml
 schedule:
-  - cron: "0 6 * * *"
+  - cron: "1 6 * * *"
 ```
 
 ## Ejemplo de salida
