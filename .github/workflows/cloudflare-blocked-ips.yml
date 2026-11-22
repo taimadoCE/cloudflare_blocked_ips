@@ -2,7 +2,7 @@ name: Exportar IP bloqueadas de Cloudflare
 
 on:
   schedule:
-    - cron: "1 6 * * *" # 06:01 hora local de Madrid
+    - cron: "1 6,18 * * *"
       timezone: "Europe/Madrid"
       
   workflow_dispatch:
