@@ -1,4 +1,4 @@
-# Exportación de IP bloqueadas desde Cloudflare
+# Exportación de IPs bloqueadas desde Cloudflare
 
 Este repositorio contiene una automatización que consulta periódicamente los **eventos de seguridad de Cloudflare** de un dominio concreto y publica, de forma actualizada, las direcciones IP que Cloudflare ha bloqueado o desafiado.
 
