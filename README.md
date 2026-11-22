@@ -67,7 +67,7 @@ Los secretos de GitHub Actions son variables cifradas que solo pueden leer los w
 
 El workflow está configurado para ejecutarse:
 
-- Automáticamente cada día a las 06:01 hora de Madrid.
+- Automáticamente cada día a las 06:01 y a las 18:01 hora de Madrid.
 - Manualmente desde la pestaña **Actions**, mediante **Run workflow**.
 
 También puede modificarse la programación en la sección `schedule` del workflow:
