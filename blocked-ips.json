@@ -1,5 +1,1256 @@
 [
   {
+    "action": "block",
+    "clientAsn": "396982",
+    "clientCountryName": "BR",
+    "clientIP": "205.210.31.214",
+    "datetime": "2026-11-25T01:11:18Z",
+    "source": "firewallCustom",
+    "userAgent": "Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity"
+  },
+  {
+    "action": "block",
+    "clientAsn": "8452",
+    "clientCountryName": "EG",
+    "clientIP": "156.197.99.240",
+    "datetime": "2026-11-24T20:51:34Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "32934",
+    "clientCountryName": "US",
+    "clientIP": "2a03:2880:10ff:5d::",
+    "datetime": "2026-11-24T20:50:52Z",
+    "source": "firewallCustom",
+    "userAgent": "facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)"
+  },
+  {
+    "action": "block",
+    "clientAsn": "206092",
+    "clientCountryName": "US",
+    "clientIP": "45.8.19.102",
+    "datetime": "2026-11-24T20:36:07Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "KR",
+    "clientIP": "20.214.228.16",
+    "datetime": "2026-11-24T20:16:56Z",
+    "source": "botFight",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45102",
+    "clientCountryName": "HK",
+    "clientIP": "8.217.145.188",
+    "datetime": "2026-11-24T20:14:55Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+  },
+  {
+    "action": "block",
+    "clientAsn": "19318",
+    "clientCountryName": "US",
+    "clientIP": "107.148.158.27",
+    "datetime": "2026-11-24T19:52:45Z",
+    "source": "firewallManaged",
+    "userAgent": "Python/3.12 aiohttp/3.14.5"
+  },
+  {
+    "action": "block",
+    "clientAsn": "45090",
+    "clientCountryName": "CN",
+    "clientIP": "119.45.127.106",
+    "datetime": "2026-11-24T17:50:12Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "block",
+    "clientAsn": "132203",
+    "clientCountryName": "BR",
+    "clientIP": "43.157.150.69",
+    "datetime": "2026-11-24T17:08:55Z",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:05Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:04Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:03Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:02Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:01Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:51:00Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:59Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:58Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:57Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:57Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:57Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:57Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
+    "action": "managed_challenge",
+    "clientAsn": "8075",
+    "clientCountryName": "IN",
+    "clientIP": "104.211.99.36",
+    "datetime": "2026-11-24T15:50:57Z",
+    "source": "botFight",
+    "userAgent": ""
+  },
+  {
     "action": "managed_challenge",
     "clientAsn": "8075",
     "clientCountryName": "HK",
@@ -46627,95 +47878,5 @@
     "datetime": "2026-11-18T01:43:20Z",
     "source": "botFight",
     "userAgent": ""
-  },
-  {
-    "action": "block",
-    "clientAsn": "132203",
-    "clientCountryName": "BR",
-    "clientIP": "43.164.197.117",
-    "datetime": "2026-11-18T00:22:49Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "action": "block",
-    "clientAsn": "396982",
-    "clientCountryName": "TW",
-    "clientIP": "34.80.143.134",
-    "datetime": "2026-11-17T23:01:21Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0"
-  },
-  {
-    "action": "block",
-    "clientAsn": "396982",
-    "clientCountryName": "TW",
-    "clientIP": "34.80.143.134",
-    "datetime": "2026-11-17T23:01:21Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0"
-  },
-  {
-    "action": "block",
-    "clientAsn": "45090",
-    "clientCountryName": "CN",
-    "clientIP": "101.42.46.71",
-    "datetime": "2026-11-17T22:33:07Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "action": "block",
-    "clientAsn": "396356",
-    "clientCountryName": "US",
-    "clientIP": "136.144.35.80",
-    "datetime": "2026-11-17T22:24:07Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15"
-  },
-  {
-    "action": "block",
-    "clientAsn": "8075",
-    "clientCountryName": "JP",
-    "clientIP": "20.48.89.150",
-    "datetime": "2026-11-17T20:54:08Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-  },
-  {
-    "action": "block",
-    "clientAsn": "62240",
-    "clientCountryName": "US",
-    "clientIP": "45.131.195.250",
-    "datetime": "2026-11-17T19:27:44Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 Version/17.0 Safari/605.1.15"
-  },
-  {
-    "action": "block",
-    "clientAsn": "132203",
-    "clientCountryName": "KR",
-    "clientIP": "43.164.131.148",
-    "datetime": "2026-11-17T18:14:24Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "action": "block",
-    "clientAsn": "132203",
-    "clientCountryName": "TH",
-    "clientIP": "43.164.3.23",
-    "datetime": "2026-11-17T16:44:59Z",
-    "source": "firewallCustom",
-    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
-  },
-  {
-    "action": "block",
-    "clientAsn": "396982",
-    "clientCountryName": "TW",
-    "clientIP": "198.235.24.90",
-    "datetime": "2026-11-17T16:38:53Z",
-    "source": "firewallCustom",
-    "userAgent": "Hello from Palo Alto Networks, find out more about our scans in https://docs-cortex.paloaltonetworks.com/r/1/Cortex-Xpanse/Scanning-activity"
   }
 ]
